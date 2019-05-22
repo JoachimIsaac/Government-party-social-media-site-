@@ -1,0 +1,31 @@
+* {
+  text-decoration: none;
+}
+
+.logo-area {
+  display: inline-block;
+}
+
+.nav-buttons {
+  display: inline-block;
+}
+
+.nav-buttons ul li {
+  display: inline-block;
+}
+
+.icon-links {
+  display: inline-block;
+}
+
+.icon-links ul li {
+  display: inline-block;
+}
+
+.search-area {
+  display: inline-block;
+}
+
+.search-area ul li {
+  display: inline-block;
+}
