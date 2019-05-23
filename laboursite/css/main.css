@@ -2,12 +2,20 @@
   text-decoration: none;
 }
 
+header {
+  background: #ff3622;
+  padding-top: 15px;
+}
+
 .logo-area {
   display: inline-block;
+  width: 20%;
+  text-align: center;
 }
 
 .nav-buttons {
   display: inline-block;
+  width: 20%;
 }
 
 .nav-buttons ul li {
@@ -16,6 +24,8 @@
 
 .icon-links {
   display: inline-block;
+  width: 20%;
+  padding-right: 20px;
 }
 
 .icon-links ul li {
@@ -24,8 +34,15 @@
 
 .search-area {
   display: inline-block;
+  width: 20%;
 }
 
 .search-area ul li {
   display: inline-block;
+}
+
+header .logo-area a .img-d {
+  /* border-radius: 50%; */
+  width: 60px;
+  height: 40px;
 }
